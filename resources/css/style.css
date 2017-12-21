@@ -11,13 +11,22 @@ h1{
 }
 a {
   color: Aquamarine;
-  font-size: 16px
-  text-align: Center;
+  font-size: 16px;
+  display: block;
+  text-align: center;
 }
 p{
   font-size: 21px
   color: Gray;
 }
-.copyright{
+
+.footer{
   text-align: right;
+  color: Gray;
+}
+
+img,
+video {
+  display: block;
+  margin: 0 auto;
 }
